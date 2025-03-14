@@ -1,4 +1,4 @@
-# Parallel Task Scheduling using Hill Climbing in C++
+# parallel Task Scheduling using Hill Climbing in C++
 
 ## Overview
 
