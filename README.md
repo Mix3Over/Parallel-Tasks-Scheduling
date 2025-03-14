@@ -106,11 +106,9 @@ This schedules the first **100** tasks from `workload.swf` and writes the output
 - Tasks with **zero duration** (`p_j = 0`) are skipped.
 - The input task order **does not guarantee** sorted arrival times (`r_j`).
 
-## License
-
-This project is open-source under the **MIT License**.
+## Testing
+Program tested on NASA files from: https://www.cs.huji.ac.il/labs/parallel/workload/logs.html
+All tests passed successfully.
 
 ## Author
-
-[Your Name]
-
+Łukasz Graja, Maksymilian Błaszczyk
