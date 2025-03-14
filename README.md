@@ -107,7 +107,7 @@ This schedules the first **100** tasks from `workload.swf` and writes the output
 - The input task order **does not guarantee** sorted arrival times (`r_j`).
 
 ## Testing
-Program tested on NASA files from: https://www.cs.huji.ac.il/labs/parallel/workload/logs.html
+Program tested on NASA, Intel and DAS2 files from: https://www.cs.huji.ac.il/labs/parallel/workload/logs.html
 All tests passed successfully.
 
 ## Author
